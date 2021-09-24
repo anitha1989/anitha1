@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'anithawebapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_02c52610b85e43fea06386d6376a424e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_37039fb3971144b583c5647cc7b8d585 }}
         package: .
