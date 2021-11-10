@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'mywbap'
           slot-name: 'staging-slot'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_063748A7AFE54A78AA8C87EE2EBA1CC8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D3D6BF22EDF44A38766ACCD9095F00F }}
           package: .
